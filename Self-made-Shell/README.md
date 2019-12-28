@@ -1,2 +1,2 @@
 # Self-made-Shell
-Terminal-like shell - implemented in C.
+An implementation of a self-made shell, like that of the Terminal itself. My work can all be found in myshell.c.
